@@ -12,3 +12,4 @@ App based on [Electron](https://github.com/electron/electron), Using Libary [Min
 # Developers
 NodeJS and Logic Developer: [! Majek_PL#1337](https://github.com/MajekPL0770)  
 HTML and Visual Developer: [lemonek#3757](https://github.com/lemonekq)  
+  
