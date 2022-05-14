@@ -5,6 +5,7 @@
 # Kopacz-GUI (Rised)
 An rebirth of old minecraft bot. It can mine for you, build, and even do macros! Working on gui and functions (est. 1 week / beta, 1 month / full)  
 > PROJECT ISN'T OPEN SOURCE IT'S ONLY DISTRIBUTION METHOD
+https://lemonekq.github.io/kopacz-rised/
 # Latest Builds:
 [Windows 8.1+](https://github.com/lemoneqk/kopacz-rised/releases/latest/) | [Linux (x64)](https://github.com/lemonekq/kopacz-rised/releases/latest/)
 # Frameworks used
