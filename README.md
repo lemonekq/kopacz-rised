@@ -3,6 +3,7 @@
 </p>
 
 <img src="https://i.ibb.co/DVDvXqL/usesjs.png">
+<img src="https://i.ibb.co/T1fW93m/powered-with-electron.png">
 
 # Kopacz-GUI (Rised)
 An rebirth of old minecraft bot. It can mine for you, build, and even do macros! Working on gui and functions (creation process is on gui creation.)
