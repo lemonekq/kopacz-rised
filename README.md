@@ -5,6 +5,7 @@
 <p align="center">
   <img width="auto" src="https://i.ibb.co/DVDvXqL/usesjs.png">
   <img width="auto" src="https://i.ibb.co/T1fW93m/powered-with-electron.png">
+  <img width="auto" src="https://i.ibb.co/C7jNGTF/made-in-poland.png">
 </p>
 
 # Kopacz-GUI (Rised)
