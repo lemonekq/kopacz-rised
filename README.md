@@ -21,5 +21,5 @@ NodeJS and Logic Developer: [! Majek_PL#1337](https://github.com/MajekPL0770)
 HTML and Visual Developer: [lemonek#1337](https://github.com/lemonekq)  
 
 <p align="center">
-  <img src="https://i.ibb.co/wd4tPJp/visual2.png">
+  <img src="https://i.ibb.co/1J4qKgF/electron-Xqju-Z6t-X72.png">
 </p>
